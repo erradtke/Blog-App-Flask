@@ -1,0 +1,13 @@
+.container {
+background: #B2D1F0;
+margin: 2em auto;
+padding: 0.8em;
+width: 35em;
+border: 2px solid #000;
+}
+
+.flash, .error {
+1background: #000;
+color: #fff;
+padding: 0.5em;
+}
